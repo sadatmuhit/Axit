@@ -1,0 +1,41 @@
+@font-face{
+	src: url(../fonts/Brushwell.ttf);
+	font-family: Brushwell;
+}
+@font-face{
+	src: url(../fonts/LouisGeorgeCafe.ttf);
+	font-family: LouisGeorgeCafe;
+}
+@font-face{
+	src: url(../fonts/RedVelvet-Regular.otf);
+	font-family: RedVelvet-Regular;
+}
+.font_brush{
+	font-family: Brushwell;
+	font-size: 76px;
+}
+.font_RedVelvet{
+	font-family: RedVelvet-Regular;
+}
+.p80{
+	padding: 80px 0;
+}
+p,button{
+	font-family: LouisGeorgeCafe;
+	font-size: 18px;
+}
+/*portfolio start*/
+.portfolio{
+	background: url(../images/Portfoliobg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+/*vdo start*/
+.vdo{
+	background: url(../images/vdobg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+/*vdo end*/
