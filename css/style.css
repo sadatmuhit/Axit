@@ -60,3 +60,19 @@ p,button{
 	background: #000;
 }
 /*blog end*/
+/*contact start*/
+.contact{
+	background: url(../images/contactbg.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+/*contact end*/
+/*footer start*/
+footer{
+	background: url(../images/footerbg.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+/*footer end*/
