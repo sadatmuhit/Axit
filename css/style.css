@@ -10,6 +10,10 @@
 	src: url(../fonts/RedVelvet-Regular.otf);
 	font-family: RedVelvet-Regular;
 }
+@font-face{
+	src: url(../fonts/nextart-light.otf);
+	font-family: nextart-light;
+}
 .font_brush{
 	font-family: Brushwell;
 	font-size: 76px;
@@ -17,12 +21,14 @@
 .font_RedVelvet{
 	font-family: RedVelvet-Regular;
 }
+.font_nextart{
+	font-family: nextart-light;
+}
 .p80{
 	padding: 80px 0;
 }
 p,button{
 	font-family: LouisGeorgeCafe;
-	/*font-size: 18px;*/
 }
 /*portfolio start*/
 .portfolio{
