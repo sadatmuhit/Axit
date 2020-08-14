@@ -30,6 +30,30 @@
 p,button{
 	font-family: LouisGeorgeCafe;
 }
+/*header start*/
+header{
+	background: url(../images/headerbg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	position: relative;
+}
+header ul li a{
+	margin-right: 40px!important;
+	border-bottom: 1px solid transparent;
+}
+header ul li a:hover{
+	border-bottom: 1px solid #fff;
+}
+header ul li:last-child a{
+	margin-right: 0!important;
+}
+.social_media{
+	position: absolute;
+	right: 0;
+	bottom: 50%;
+}
+/*header end*/
 /*portfolio start*/
 .portfolio{
 	background: url(../images/Portfoliobg.jpg);
