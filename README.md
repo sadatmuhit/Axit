@@ -1,4 +1,4 @@
-# Photography
+# Axit
 psd to html
 
-Live Link: https://sadatmuhit.github.io/Photography/
+Live Link: https://sadatmuhit.github.io/Axit/
