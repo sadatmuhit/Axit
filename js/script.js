@@ -25,10 +25,6 @@ $(document).ready(function () {
             $("#main_nav").removeClass("fixed-top");
         }
     });
-    //skeletab
-    $('#sktab').skeletabs({
-        animation: "fade-scale"
-    });
     //owlcarousel
     $('.owl-carousel').owlCarousel({
         center: true,
