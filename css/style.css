@@ -153,10 +153,6 @@ header {
     text-transform: uppercase;
     text-decoration: none;
 }
-#tab2,
-#tab3 {
-    display: none;
-}
 /*features end*/
 /*intro start*/
 .intro,

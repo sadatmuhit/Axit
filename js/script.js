@@ -25,6 +25,8 @@ $(document).ready(function () {
             $("#main_nav").removeClass("fixed-top");
         }
     });
+    //tabs
+    new SiTabs();
     //owlcarousel
     $('.owl-carousel').owlCarousel({
         center: true,
